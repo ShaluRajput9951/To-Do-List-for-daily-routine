@@ -15,15 +15,17 @@ An application to add the TO DO items in a checklist form. The user can also del
 *  Hence you can use it easily.
 
 # Screenshots:
-!.[](images/default.png)
+![](images/item-deleted.png)
 
-!.[](images/type-list.png)
+![](images/default.png)
 
-!.[](images/strikethrough.png)
+![](images/type-list.png)
 
-!.[](images/item-deleted.png)
+![](images/strikethrough.png)
 
-!.[](images/work-list.png) 
+![](images/item-deleted.png)
+
+![](images/work-list.png) 
 
 # Glad To See you here
 * Give it a star if you like this repository❤
